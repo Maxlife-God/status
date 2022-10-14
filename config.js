@@ -26,7 +26,7 @@ window.Config = {
       url: 'https://github.com/Maxlife-God'
     },
     {
-      text: 'Blog',
+      text: '博客',
       url: 'https://blog.mikufans.ink/'
     },
   ],
